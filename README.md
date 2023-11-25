@@ -4,7 +4,7 @@ Amazon Product scraper software
 
 Check software on below 👇 link
 
-https://bhansalisoft.com/Product.aspx?PID=21
+https://1.envato.market/5bWKzb
 
 <h4>What is Amazon Product Scraper?</h4>
             <hr class="notop">
